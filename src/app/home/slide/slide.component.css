@@ -1,0 +1,11 @@
+.transition-all {
+    transition-property: opacity, transform;
+}
+
+.opacity-100 {
+    opacity: 1;
+}
+
+.opacity-0 {
+    opacity: 0;
+}
